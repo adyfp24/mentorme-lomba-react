@@ -1,0 +1,144 @@
+{
+  "dashboardmentor": [
+    {
+      "id": "16841239203",
+      "namamentor": "Ady Firdau, S.Kom, M.Kom",
+      "spesialisasi": "Hukum",
+      "sertifikasi": "Dicoding Academy",
+      "minatpenelitian": "Software Engineering",
+      "deskripsimentor": "Merupakan dosen dan peneliti di fakultas ilmu komputer. Menjadi staf pengajar di fakultas ilmu komputer dengan fokus bidang keahlian Rekayasa Perangkat Lunak . Sampai saat ini aktif dalam kegiatan penelitian dan pengabdian yang berfokus di daerah Kabupaten Jember dan sekitarnya. Beliau saat ini juga aktif dalam menghasilkan karya buku dalam 5 tahun terakhir ini.",
+      "pendidikan": "S1 Sistem Informasi Universitas Jember",
+      "hasilpenelitian": "Penerapan metode certainty factor untuk sistem pakar diagnosis hama dan penyakit pada tanaman tembakau",
+      "fee": "35000",
+      "judulmentoring": "Pembahasan Mengenai Tutorial Menjadi Sepuh",
+      "jadwal": "Jumat, 25 Oktober 2023 / 10.00 - 11.00 WIB",
+      "tempat": "https://unej-id.zoom.us/j/94642770465#success"
+    },
+    {
+      "id": "16813249203",
+      "namamentor": "Zein, S.Kom, M.Kom",
+      "spesialisasi": "Hukum",
+      "sertifikasi": "Dicoding Academy",
+      "minatpenelitian": "Software Engineering",
+      "deskripsimentor": "Merupakan dosen dan peneliti di fakultas ilmu komputer. Menjadi staf pengajar di fakultas ilmu komputer dengan fokus bidang keahlian Rekayasa Perangkat Lunak . Sampai saat ini aktif dalam kegiatan penelitian dan pengabdian yang berfokus di daerah Kabupaten Jember dan sekitarnya. Beliau saat ini juga aktif dalam menghasilkan karya buku dalam 5 tahun terakhir ini.",
+      "pendidikan": "S1 Sistem Informasi Universitas Jember",
+      "hasilpenelitian": "Penerapan metode certainty factor untuk sistem pakar diagnosis hama dan penyakit pada tanaman tembakau",
+      "fee": "35000",
+      "judulmentoring": "Pembahasan Mengenai Tutorial Menjadi Hacker",
+      "jadwal": "Jumat, 25 Oktober 2023 / 10.00 - 11.00 WIB",
+      "tempat": "https://unej-id.zoom.us/j/94642770465#success"
+    },
+    {
+      "id": "16849132203",
+      "namamentor": "Laos, S.Kom, M.Kom",
+      "spesialisasi": "Hukum",
+      "sertifikasi": "Dicoding Academy",
+      "minatpenelitian": "Software Engineering",
+      "deskripsimentor": "Merupakan dosen dan peneliti di fakultas ilmu komputer. Menjadi staf pengajar di fakultas ilmu komputer dengan fokus bidang keahlian Rekayasa Perangkat Lunak . Sampai saat ini aktif dalam kegiatan penelitian dan pengabdian yang berfokus di daerah Kabupaten Jember dan sekitarnya. Beliau saat ini juga aktif dalam menghasilkan karya buku dalam 5 tahun terakhir ini.",
+      "pendidikan": "S1 Sistem Informasi Universitas Jember",
+      "hasilpenelitian": "Penerapan metode certainty factor untuk sistem pakar diagnosis hama dan penyakit pada tanaman tembakau",
+      "fee": "35000",
+      "judulmentoring": "Pembahasan Mengenai Tutorial Menjadi Hacker",
+      "jadwal": "Jumat, 25 Oktober 2023 / 10.00 - 11.00 WIB",
+      "tempat": "https://unej-id.zoom.us/j/94642770465#success"
+    },
+    {
+      "id": "16841329203",
+      "namamentor": "HMIF, S.Kom, M.Kom",
+      "spesialisasi": "Hukum",
+      "sertifikasi": "Dicoding Academy",
+      "minatpenelitian": "Software Engineering",
+      "deskripsimentor": "Merupakan dosen dan peneliti di fakultas ilmu komputer. Menjadi staf pengajar di fakultas ilmu komputer dengan fokus bidang keahlian Rekayasa Perangkat Lunak . Sampai saat ini aktif dalam kegiatan penelitian dan pengabdian yang berfokus di daerah Kabupaten Jember dan sekitarnya. Beliau saat ini juga aktif dalam menghasilkan karya buku dalam 5 tahun terakhir ini.",
+      "pendidikan": "S1 Sistem Informasi Universitas Jember",
+      "hasilpenelitian": "Penerapan metode certainty factor untuk sistem pakar diagnosis hama dan penyakit pada tanaman tembakau",
+      "fee": "35000",
+      "judulmentoring": "Pembahasan Mengenai Tutorial Menjadi Hacker",
+      "jadwal": "Jumat, 25 Oktober 2023 / 10.00 - 11.00 WIB",
+      "tempat": "https://unej-id.zoom.us/j/94642770465#success"
+    },
+    {
+      "id": "16849123203",
+      "namamentor": "HIMATIF, S.Kom, M.Kom",
+      "spesialisasi": "Hukum",
+      "sertifikasi": "Dicoding Academy",
+      "minatpenelitian": "Software Engineering",
+      "deskripsimentor": "Merupakan dosen dan peneliti di fakultas ilmu komputer. Menjadi staf pengajar di fakultas ilmu komputer dengan fokus bidang keahlian Rekayasa Perangkat Lunak . Sampai saat ini aktif dalam kegiatan penelitian dan pengabdian yang berfokus di daerah Kabupaten Jember dan sekitarnya. Beliau saat ini juga aktif dalam menghasilkan karya buku dalam 5 tahun terakhir ini.",
+      "pendidikan": "S1 Sistem Informasi Universitas Jember",
+      "hasilpenelitian": "Penerapan metode certainty factor untuk sistem pakar diagnosis hama dan penyakit pada tanaman tembakau",
+      "fee": "35000",
+      "judulmentoring": "Pembahasan Mengenai Tutorial Menjadi Hacker",
+      "jadwal": "Jumat, 25 Oktober 2023 / 10.00 - 11.00 WIB",
+      "tempat": "https://unej-id.zoom.us/j/94642770465#success"
+    }
+  ],
+  "akunuser": [
+    {
+      "username": "user",
+      "nama": "Saya User",
+      "email": "user@gmail.com",
+      "password": "123",
+      "id": "HSLXdoG"
+    },
+    {
+      "username": "user2",
+      "nama": "Saya User 2",
+      "email": "user2@gmail.com",
+      "password": "123",
+      "id": "eNKKWCO"
+    },
+    {
+      "username": "aaaa",
+      "nama": "aaaaaa",
+      "email": "aa@gmail.com",
+      "password": "123",
+      "id": "ZvAs6ij"
+    }
+  ],
+  "akunadmin": [
+    {
+      "username": "admin3",
+      "nama": "Menang Citech",
+      "email": "citech@gmail.com",
+      "password": "123",
+      "id": "F_f5cJR"
+    }
+  ],
+  "datajadwal": [
+    {
+      "judulmentoring": "Pembahasan Mengenai Tutorial Menjadi Hacker",
+      "jadwal": "Jumat, 25 Oktober 2023 / 10.00 - 11.00 WIB",
+      "tempat": "https://unej-id.zoom.us/j/94642770465#success",
+      "namamentor": "Altamis Atmaja, S.Kom, M.Kom",
+      "fee": "35000",
+      "request": "Nanti tolong bantu koreksi penelitian saya ya kak! 😭",
+      "id": "e9OswVl"
+    },
+    {
+      "judulmentoring": "Pembahasan Mengenai Tutorial Menjadi Sepuh",
+      "jadwal": "Jumat, 25 Oktober 2023 / 10.00 - 11.00 WIB",
+      "tempat": "https://unej-id.zoom.us/j/94642770465#success",
+      "namamentor": "Ady Firdau, S.Kom, M.Kom",
+      "fee": "35000",
+      "request": "Ingin Menjadi Sepuh Kak, Ajarin Dong",
+      "id": "bJCgeht"
+    },
+    {
+      "judulmentoring": "Pembahasan Mengenai Tutorial Menjadi Sepuh",
+      "jadwal": "Jumat, 25 Oktober 2023 / 10.00 - 11.00 WIB",
+      "tempat": "https://unej-id.zoom.us/j/94642770465#success",
+      "namamentor": "Ady Firdau, S.Kom, M.Kom",
+      "fee": "35000",
+      "request": "ingin jadi sepuh",
+      "id": "0EkYQVe"
+    },
+    {
+      "judulmentoring": "Pembahasan Mengenai Tutorial Menjadi Sepuh",
+      "jadwal": "Jumat, 25 Oktober 2023 / 10.00 - 11.00 WIB",
+      "tempat": "https://unej-id.zoom.us/j/94642770465#success",
+      "namamentor": "Ady Firdau, S.Kom, M.Kom",
+      "fee": "35000",
+      "request": "ingin menjadi sepuh banget",
+      "id": "r_QOxEg"
+    }
+  ]
+}
